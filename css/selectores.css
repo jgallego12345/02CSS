@@ -1,0 +1,29 @@
+
+/* Selectores */
+*{
+    border: 2px solid black;
+}
+
+html {
+    border: 2px solid blue;
+}
+
+body {
+    border: 2px solid pink;
+}
+
+.bordergreen {
+    border: 2px solid green;
+}
+
+#borderred {
+    border: 2px solid red;
+}
+
+.parrafoprueba{
+    background-color: aqua;
+    border: 2px solid fuchsia;
+    color: rgb(26, 7, 44);
+    font-size: 32px;
+}
+
